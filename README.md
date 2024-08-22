@@ -8,3 +8,4 @@
 - react-hook-form
 - @hookform/resolvers
 - phosphor-react
+- date-fns
