@@ -9,3 +9,8 @@
 - @hookform/resolvers
 - phosphor-react
 - date-fns
+
+## Hooks utilizados
+- useState
+- useEffect
+- useContext
