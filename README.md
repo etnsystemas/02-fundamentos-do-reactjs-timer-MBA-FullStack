@@ -15,6 +15,7 @@
 - @hookform/resolvers
 - phosphor-react
 - date-fns
+- immer
 
 
 ## Hooks utilizados
